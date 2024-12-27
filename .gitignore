@@ -1,0 +1,4 @@
+myvenv]
+*.md
+.env
+*.pdf
